@@ -9,7 +9,7 @@ in the Inventory. Also I have created a 'Sales.json' file where the records abou
 json files are also provided.
 
 ## About Myself
-I, the author am Sayak Pal a student of 5th Semester under 3rd Year of B.Tech Course with Computer Science at Asansol Engineering College,Asansol, West Bengal.
+I, the author am Sayak Pal a student of 5th Semester under 3rd Year of B.Tech Course with Computer Science and Engineering at Asansol Engineering College,Asansol, West Bengal.
 
 ## Useful Links
 LinkedIn: https://www.linkedin.com/in/sayak-pal-24b33421a
